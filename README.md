@@ -6,6 +6,12 @@ These are the repos that demonstrate best my current interests:
 
 - Demo Stock Exchange - A Reactive Application that streams average pricing of some selected stocks - https://github.com/alesaudate/demo-stock-exchange
 
+These are the repos containing source code of my books:
+
+- (SOA Aplicado: Integrando com web services e além)[https://github.com/alesaudate/soa]
+- (REST: Construa API's inteligentes de maneira simples)[https://github.com/alesaudate/rest]
+- (APIs REST: Seus serviços prontos para o mundo real)[https://github.com/alesaudate/rest-v2]
+
 <p align="center">
 <a href="https://github.com/alesaudate">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alesaudate&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
