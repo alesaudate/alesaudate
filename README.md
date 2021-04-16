@@ -4,7 +4,7 @@
 
 These are the repos that demonstrate best my current interests:
 
-- (Demo Stock Exchange - A Reactive Application that streams average pricing of some selected stocks)[https://github.com/alesaudate/demo-stock-exchange]
+- Demo Stock Exchange - A Reactive Application that streams average pricing of some selected stocks - https://github.com/alesaudate/demo-stock-exchange
 
 <p align="center">
 <a href="https://github.com/alesaudate">
