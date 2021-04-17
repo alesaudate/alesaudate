@@ -14,7 +14,7 @@ These are the repos containing source code of my books:
 
 <p align="center">
 <a href="https://github.com/alesaudate">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alesaudate&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alesaudate&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
