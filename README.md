@@ -17,6 +17,11 @@ These are the repos containing source code of my books:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alesaudate&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+<p align="center">
+ <a href="https://github.com/alesaudate">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesaudate" />
+ </a>
+ </p>
 
 ### 🛠 &nbsp;Tech Stack
 
