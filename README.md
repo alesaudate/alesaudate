@@ -5,6 +5,7 @@
 These are the repos that demonstrate best my current interests:
 
 - Demo Stock Exchange - A Reactive Application that streams average pricing of some selected stocks - https://github.com/alesaudate/demo-stock-exchange
+- Example with Apache Camel, Kotlin and Kafka on top of Spring Boot - https://github.com/alesaudate/camel-kotlin-kafka-example
 
 These are the repos containing source code of my books:
 
