@@ -9,6 +9,7 @@ These are the repos that demonstrate best my current interests:
 - A similar example, showing how to wire AWS S3 and Kinesis using Apache Camel - https://github.com/alesaudate/camel-s3-kinesis-example
 - My bash aliases / functions - https://github.com/alesaudate/my_bash_repo
 - Docker recipes (scripts that allow me to execute common pieces of software without installing anything else than Docker) - https://github.com/alesaudate/docker-recipes
+- C.A.R. App - A fully functional reactive API simulating a Uber-like app. Heavily based on my last published book. - https://github.com/alesaudate/car-app
 
 These are the repos containing source code of my books:
 
