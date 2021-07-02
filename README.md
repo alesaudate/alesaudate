@@ -10,6 +10,7 @@ These are the repos that demonstrate best my current interests:
 - My bash aliases / functions - https://github.com/alesaudate/my_bash_repo
 - Docker recipes (scripts that allow me to execute common pieces of software without installing anything else than Docker) - https://github.com/alesaudate/docker-recipes
 - C.A.R. App - A fully functional reactive API simulating a Uber-like app. Heavily based on my last published book. - https://github.com/alesaudate/car-app
+- Kotlin Kata - A repo dedicated to practice my skills in Kotlin. - https://github.com/alesaudate/kotlin-kata
 
 These are the repos containing source code of my books:
 
