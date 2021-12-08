@@ -1,4 +1,4 @@
- ### 👋  Hi there! I'm  <a href="https://www.linkedin.com/in/alesaudate/"><img src="https://img.shields.io/badge/-Alexandre%20Saudate-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil:
+ ### 👋  Hi there! I'm  <a href="https://www.linkedin.com/in/alesaudate/"><img src="https://img.shields.io/badge/-Alexandre%20Saudate-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> :brazil: 🇩🇪
 
 - I'm a back-end developer, specialized in REST API's w/ Java and Kotlin
 
