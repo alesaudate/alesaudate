@@ -17,7 +17,7 @@ These are the repos containing source code of my books:
 - [SOA Aplicado: Integrando com web services e além](https://github.com/alesaudate/soa)
 - [REST: Construa API's inteligentes de maneira simples](https://github.com/alesaudate/rest)
 - [APIs REST: Seus serviços prontos para o mundo real](https://github.com/alesaudate/rest-v2)
-- [APIs REST em Kotlin; Seus serviços prontos para o mundo real](https://github.com/alesaudate/rest-kotlin)
+- [APIs REST em Kotlin: Seus serviços prontos para o mundo real](https://github.com/alesaudate/rest-kotlin)
 
 <p align="center">
 <a href="https://github.com/alesaudate">
